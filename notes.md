@@ -34,3 +34,8 @@
 - P: Build projects around motivated individuals. Give them the environment and
   support the need, and trust them to het the job done.
 - Put the team in front of the customers.
+- Cross-functionality. Agile team members should be generalists.
+- There are people who know ehat needs to be built (customers) and people who
+  can build it (the development team).
+- On-site customer (product owner in Scrum)
+-  
