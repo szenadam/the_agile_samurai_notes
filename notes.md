@@ -38,4 +38,19 @@
 - There are people who know ehat needs to be built (customers) and people who
   can build it (the development team).
 - On-site customer (product owner in Scrum)
--  
+- The agile analyst: works closely with the customer to figure out the details
+  of how some feature needs to work. Helps write user stories with the
+  customer.
+- The agile programmer: very serious about quality software, writes lots of
+  tests, continuously designing and imporving software, makes sure the code
+  base is always production-ready.
+- The agile testers: insert themself early in an agile project, work closely
+  with user stories and ensure that the software works. Also work closely with
+  developers with testing and try to break the application form all possible
+  angles.
+- The agile project manager: coninuously plans, replans and ajusts the course
+  when necessary. Helps create the environment so the team should function in
+  his absence. Gets status reports for stakeholders, forges relationships
+  within the company, protects the team from outside forces.
+- The agile UX designer: understands the customer's needs and collaborates with
+  the team to figure out how best to meet them.
