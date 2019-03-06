@@ -54,3 +54,9 @@
   within the company, protects the team from outside forces.
 - The agile UX designer: understands the customer's needs and collaborates with
   the team to figure out how best to meet them.
+- Forming an agile team:
+  - Look for generalists
+  - People who are comfortable with ambiguity. Everything is going the change
+    constantly. 
+  - Team players who can check their egos at the door. People who enjoy
+    learning and growing with others.
