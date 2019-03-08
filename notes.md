@@ -32,23 +32,23 @@
 - An agile team will always want to be accountable for the results they
   produce.
 - P: Build projects around motivated individuals. Give them the environment and
-  support the need, and trust them to het the job done.
+  support the need, and trust them to get the job done.
 - Put the team in front of the customers.
 - Cross-functionality. Agile team members should be generalists.
-- There are people who know ehat needs to be built (customers) and people who
+- There are people who know what needs to be built (customers) and people who
   can build it (the development team).
 - On-site customer (product owner in Scrum)
 - The agile analyst: works closely with the customer to figure out the details
   of how some feature needs to work. Helps write user stories with the
   customer.
 - The agile programmer: very serious about quality software, writes lots of
-  tests, continuously designing and imporving software, makes sure the code
+  tests, continuously designing and improving software, makes sure the code
   base is always production-ready.
-- The agile testers: insert themself early in an agile project, work closely
+- The agile testers: insert themselves early in an agile project, work closely
   with user stories and ensure that the software works. Also work closely with
   developers with testing and try to break the application form all possible
   angles.
-- The agile project manager: coninuously plans, replans and ajusts the course
+- The agile project manager: continuously plans, re-plans and adjusts the course
   when necessary. Helps create the environment so the team should function in
   his absence. Gets status reports for stakeholders, forges relationships
   within the company, protects the team from outside forces.
@@ -70,24 +70,24 @@
   - Were there other projects where you took a junior team and could
     successfully write a highly complex software in an unfamiliar environment
     or programing language.
-- Iception deck
+- Inception deck
   - Involve everyone, including the stakeholders.
   - Can take from a couple of days to about two weeks.
   - In a nutshell:
     - Ask why we are here.
-    - Create elevator pithc.
+    - Create elevator pitch.
     - Design a product box.
     - Create a NOT list.
     - Meet your neighbors.
     - Show the solution.
     - Ask what keeps us up at night.
     - Size it up.
-    - Be clear on what's hoing to give.
+    - Be clear on what's going to give.
     - Show what it's going to take.
 ## Chapter 4 Seeing the Big Picture
 - Why are we here? See the problem from the customers perspective. Make better
   decisions. Better balancing conflicts and trade offs. Discover the
-  commander's intent: expression, phrase or statement that summatizes the goal
+  commander's intent: expression, phrase or statement that summarizes the goal
   or purpose of you project or mission.
 - Create and elevator pitch:
   - For [target customer]
@@ -111,7 +111,7 @@
   - OUT: the stuff that we aren't going to sweat.
   - UNRESOLVED: things we still need to make a decision about.
 - Meet your neighbors
-  - Map out who is in your porject community. Start building relationships with
+  - Map out who is in your project community. Start building relationships with
     them.
   -  Get together with the team and brainstorm everyone you think you are going
      to need to interact with before your project can go live.
