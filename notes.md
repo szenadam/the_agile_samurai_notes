@@ -60,3 +60,31 @@
     constantly. 
   - Team players who can check their egos at the door. People who enjoy
     learning and growing with others.
+## Chapter 3 How to get everyone on the Bus
+- The assumption of consensus where none exists is what kills most projects
+- Right from the start you need to ask though questions:
+  - How much experience does your team have?
+  - Have you ever done this type of thing?
+  - How much money do we have?
+  - Who's calling the shots on this project?
+  - Were there other projects where you took a junior team and could
+    successfully write a highly complex software in an unfamiliar environment
+    or programing language.
+- Iception deck
+  - Involve everyone, including the stakeholders.
+  - Can take from a couple of days to about two weeks.
+  - In a nutshell:
+    - Ask why we are here.
+    - Create elevator pithc.
+    - Design a product box.
+    - Create a NOT list.
+    - Meet your neighbors.
+    - Show the solution.
+    - Ask what keeps us up at night.
+    - Size it up.
+    - Be clear on what's hoing to give.
+    - Show what it's going to take.
+## Chapter 4 Seeing the Big Picture
+- Why are we here? See the problem from the customers perspective. Make better
+  decisions. Better balancing conflicts and trade offs. Discover the
+  commander's intent: 
