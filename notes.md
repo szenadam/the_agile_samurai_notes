@@ -87,4 +87,31 @@
 ## Chapter 4 Seeing the Big Picture
 - Why are we here? See the problem from the customers perspective. Make better
   decisions. Better balancing conflicts and trade offs. Discover the
-  commander's intent: 
+  commander's intent: expression, phrase or statement that summatizes the goal
+  or purpose of you project or mission.
+- Create and elevator pitch:
+  - For [target customer]
+  - Who [statement of need or opportunity]
+  - the [product name]
+  - is a [product category]
+  - that [key benefit, compelling reason to buy]
+  - Unlike [primary competitive alternative]
+  - our product [statement of primary differentiation].
+- How to create a product box:
+  - Brainstorm your product's benefits: never tell customers features, instead
+    tell the the benefits.
+  - Create a slogan. 
+  - Design the box.
+- Create a NOT list
+  - Choose what's in the scope, choose what's out of scope.
+  - You can also have an 'unresolved' box. 
+  - The team and the customers get together and brainstorm all the high-level
+    features they'd like to see in their software.
+  - IN: the stuff we want to focus on.
+  - OUT: the stuff that we aren't going to sweat.
+  - UNRESOLVED: things we still need to make a decision about.
+- Meet your neighbors
+  - Map out who is in your porject community. Start building relationships with
+    them.
+  -  Get together with the team and brainstorm everyone you think you are going
+     to need to interact with before your project can go live.
