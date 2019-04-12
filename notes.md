@@ -115,3 +115,23 @@
     them.
   -  Get together with the team and brainstorm everyone you think you are going
      to need to interact with before your project can go live.
+## Chapter 5 Making it real
+- Vizualize your solution, your technical architecture and show it to your team.
+  Draw diagrams, play what-if scenarios, get the feel of the complexity of the
+  software you are trying to build.
+- Your technical pick should be considered when picking team members.
+- Ask what keeps you up at night. Talk about project risk early. Take Michael 
+  Bloomberg's advice.
+- Then take those risks and divide them into two categories: those that worth
+  sweating about and those that aren't.
+- Size it up:
+  - Take Randy Mott's advice: no development should take longer than six months.
+  - The smaller the better, don't dream too big.
+  - Set some expectaions about the size. Size up smaller sections in the project.
+  - Do not take these estimates as hard commitments. They are just high level 
+    guesses.
+- The Furious Four: Time, Budget, Quality, Scope
+  - The Trade-off slider: no two can be at the same level.
+- Show what's going to take
+- Assemble the A-Team:
+  
